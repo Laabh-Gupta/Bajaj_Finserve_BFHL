@@ -59,24 +59,6 @@ A successful request will return a `200 OK` status with the following JSON struc
 ```
 ---
 
-## How to Run Locally
-
-1.  Clone the repository:
-    ```sh
-    git clone <your-repo-url>
-    ```
-2.  Navigate into the project directory:
-    ```sh
-    cd <your-repo-folder>
-    ```
-3.  Run the application using Maven:
-    ```sh
-    mvn spring-boot:run
-    ```
-The application will start on `http://localhost:8080`.
-
----
-
 ## Live API Screenshot
 
 The following image shows a successful test of the live API using Postman.
